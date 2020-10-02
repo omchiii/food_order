@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255066200706",
+    "firebase_url": "https://fooder-913c6.firebaseio.com",
+    "project_id": "fooder-913c6",
+    "storage_bucket": "fooder-913c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255066200706:android:ea839a69796628a8eab29b",
+        "android_client_info": {
+          "package_name": "com.tech387.food_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255066200706-n9frt3q1udqp4qors5h2ocdle3o03ft1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4dLMB5iWcJEBOFGVRQIn4M1dmyQk10Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255066200706-n9frt3q1udqp4qors5h2ocdle3o03ft1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
